@@ -5,7 +5,7 @@
 
 ```
     ╔══════════════════════════════════════════════════════════════╗
-    ║  🚀 NEXT-GENERATION TRAVEL EXPERIENCE ENGINE 🚀              ║
+    ║  🚀 NEXT-GENERATION TRAVEL EXPERIENCE ENGINE 🚀             ║
     ║                                                              ║
     ║     ✦ Powered by Artificial Intelligence ✦                  ║
     ║     ✧ Built for the Future ✧                                ║
@@ -34,16 +34,18 @@
 
 <div align="center">
 
-```ascii
-    🎭 EXPERIENCE THE IMPOSSIBLE 🎭
-    
-    ┌─────────────────────────────────────────────────────────────┐
-    │  🧠 AI That Reads Your Travel Dreams                        │
-    │  ⚡ Lightning Speed That Defies Physics                     │  
-    │  🎨 UI So Beautiful It Makes Designers Weep                 │
-    │  🔮 Predictions So Accurate They Seem Like Magic            │
-    │  🛡️ Security Tighter Than Fort Knox                         │
-    └─────────────────────────────────────────────────────────────┘
+```
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║                  🎭 EXPERIENCE THE IMPOSSIBLE 🎭             ║
+    ╠═══════════════════════════════════════════════════════════════╣
+    ║                                                               ║
+    ║   🧠  AI That Reads Your Travel Dreams                        ║
+    ║   ⚡  Lightning Speed That Defies Physics                     ║
+    ║   🎨  UI So Beautiful It Makes Designers Weep                 ║
+    ║   🔮  Predictions So Accurate They Seem Like Magic            ║
+    ║   🛡️  Security Tighter Than Fort Knox                         ║
+    ║                                                               ║
+    ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -122,31 +124,31 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║                    🌟 THE IMPOSSIBLE MADE POSSIBLE 🌟             ║
-╠═══════════════════════════════════════════════════════════════════╣
-║                                                                   ║
-║  🧙‍♂️ AI TRAVEL WIZARD                                              ║
-║  ├─ Reads your mind (almost literally)                           ║
-║  ├─ Suggests destinations you didn't know existed                 ║
-║  └─ Creates perfect itineraries in 0.3 seconds                   ║
-║                                                                   ║
-║  ⚡ QUANTUM SPEED ENGINE                                          ║
-║  ├─ Page loads faster than light                                 ║
-║  ├─ Instant search results                                       ║
-║  └─ Real-time everything                                         ║
-║                                                                   ║
-║  🎨 REALITY-BENDING UI                                           ║
-║  ├─ Animations that make Disney jealous                          ║
-║  ├─ Colors that don't exist in nature                            ║
-║  └─ Layouts that defy physics                                    ║
-║                                                                   ║
-║  🔐 PENTAGON-LEVEL SECURITY                                      ║
-║  ├─ Payments secured by quantum encryption                       ║
-║  ├─ Data protected by alien technology                           ║
-║  └─ Privacy so secure, even we can't see it                     ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                   🌟 THE IMPOSSIBLE MADE POSSIBLE 🌟                 ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   🧙‍♂️ AI TRAVEL WIZARD                                                ║
+║   ├─ Reads your mind (almost literally)                             ║
+║   ├─ Suggests destinations you didn't know existed                   ║
+║   └─ Creates perfect itineraries in 0.3 seconds                     ║
+║                                                                      ║
+║   ⚡ QUANTUM SPEED ENGINE                                            ║
+║   ├─ Page loads faster than light                                   ║
+║   ├─ Instant search results                                         ║
+║   └─ Real-time everything                                           ║
+║                                                                      ║
+║   🎨 REALITY-BENDING UI                                             ║
+║   ├─ Animations that make Disney jealous                            ║
+║   ├─ Colors that don't exist in nature                              ║
+║   └─ Layouts that defy physics                                      ║
+║                                                                      ║
+║   🔐 PENTAGON-LEVEL SECURITY                                        ║
+║   ├─ Payments secured by quantum encryption                         ║
+║   ├─ Data protected by alien technology                             ║
+║   └─ Privacy so secure, even we can't see it                       ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -192,30 +194,39 @@
 ```
 🚨 ATTENTION: PREPARE FOR LAUNCH 🚨
 
-T-minus 10... Initializing quantum processors...
-T-minus 9...  Loading AI consciousness...
-T-minus 8...  Calibrating reality distortion field...
-T-minus 7...  Activating time dilation engine...
-T-minus 6...  Charging flux capacitor...
-T-minus 5...  Engaging hyperdrive...
-T-minus 4...  Opening dimensional portals...
-T-minus 3...  Synchronizing with satellites...
-T-minus 2...  Final systems check...
-T-minus 1...  IGNITION!
-🚀 BLAST OFF! 🚀
+╔══════════════════════════════════════════════════════════════════╗
+║  T-minus 10... Initializing quantum processors...               ║
+║  T-minus 9...  Loading AI consciousness...                      ║
+║  T-minus 8...  Calibrating reality distortion field...          ║
+║  T-minus 7...  Activating time dilation engine...               ║
+║  T-minus 6...  Charging flux capacitor...                       ║
+║  T-minus 5...  Engaging hyperdrive...                           ║
+║  T-minus 4...  Opening dimensional portals...                   ║
+║  T-minus 3...  Synchronizing with satellites...                 ║
+║  T-minus 2...  Final systems check...                           ║
+║  T-minus 1...  IGNITION!                                        ║
+║                                                                  ║
+║                    🚀 BLAST OFF! 🚀                             ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ### 🛰️ **SYSTEM REQUIREMENTS**
 
-```bash
+```
 ⚠️  WARNING: MINIMUM SPECS FOR THIS COSMIC EXPERIENCE ⚠️
 
-Node.js >= 18.0.0  (Ancient versions will cause reality tears)
-npm >= 8.0.0       (For package teleportation)
-Memory >= 4GB      (To contain the awesome)
-CPU >= Quantum     (Regular CPUs may spontaneously combust)
+╔═══════════════════════════════════════════════════════════════════╗
+║                        SYSTEM REQUIREMENTS                        ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║   Node.js >= 18.0.0    (Ancient versions will cause reality tears)║
+║   npm >= 8.0.0         (For package teleportation)               ║
+║   Memory >= 4GB        (To contain the awesome)                   ║
+║   CPU >= Quantum       (Regular CPUs may spontaneously combust)   ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 ### 🌌 **INSTALLATION RITUAL**
@@ -392,19 +403,22 @@ travel-agency/
 <div align="center">
 
 ```
-🌟 BECOME A LEGEND 🌟
-
-Want to contribute to this interdimensional project?
-Your code could literally change the fabric of reality!
-
-┌─────────────────────────────────────────────────────────────┐
-│  🚀 CONTRIBUTION LEVELS 🚀                                  │
-├─────────────────────────────────────────────────────────────┤
-│  👶 NOVICE: Fix typos, add comments                         │
-│  🧙‍♂️ WIZARD: Add features, optimize performance              │
-│  🦄 UNICORN: Rewrite reality, break physics                 │
-│  🌟 GOD: Contribute to the AI consciousness                 │
-└─────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║                      🌟 BECOME A LEGEND 🌟                          ║
+║                                                                      ║
+║      Want to contribute to this interdimensional project?           ║
+║         Your code could literally change the fabric of reality!     ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                       🚀 CONTRIBUTION LEVELS 🚀                     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   👶 NOVICE:   Fix typos, add comments                              ║
+║   🧙‍♂️ WIZARD:   Add features, optimize performance                   ║
+║   🦄 UNICORN:  Rewrite reality, break physics                       ║
+║   🌟 GOD:      Contribute to the AI consciousness                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -437,25 +451,29 @@ Your code could literally change the fabric of reality!
 <div align="center">
 
 ```
-🛸 JOURNEY TO THE STARS 🛸
-
-2025 Q2 ┃ 📱 Mobile App (React Native from 2030)
-        ┃ 🤖 Advanced AI Chatbot (Self-aware)
-        ┃ 🌍 Multi-language Support (Including Alien)
-        ┃
-2025 Q3 ┃ 🔮 AR/VR Integration (Visit before you go)
-        ┃ 🛡️ Blockchain Security (Quantum-resistant)
-        ┃ ⚡ Voice Commands (Talk to your screen)
-        ┃
-2025 Q4 ┃ 🚀 Space Travel Bookings (Mars, Moon, Europa)
-        ┃ 🧠 Mind-Reading Interface (Neuralink ready)
-        ┃ 🌈 Holographic UI (Float in midair)
-        ┃
-2026 Q1 ┃ 🤖 AI Travel Companions (Virtual beings)
-        ┃ 🌌 Multiverse Travel Support
-        ┃ ⏰ Time Travel Bookings (Past & Future)
-        ┃
-∞       ┃ 🌟 ACHIEVE DIGITAL IMMORTALITY 🌟
+╔══════════════════════════════════════════════════════════════════════╗
+║                       🛸 JOURNEY TO THE STARS 🛸                    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  2025 Q2 ┃ 📱 Mobile App (React Native from 2030)                   ║
+║          ┃ 🤖 Advanced AI Chatbot (Self-aware)                      ║
+║          ┃ 🌍 Multi-language Support (Including Alien)              ║
+║          ┃                                                          ║
+║  2025 Q3 ┃ 🔮 AR/VR Integration (Visit before you go)               ║
+║          ┃ 🛡️ Blockchain Security (Quantum-resistant)               ║
+║          ┃ ⚡ Voice Commands (Talk to your screen)                  ║
+║          ┃                                                          ║
+║  2025 Q4 ┃ 🚀 Space Travel Bookings (Mars, Moon, Europa)            ║
+║          ┃ 🧠 Mind-Reading Interface (Neuralink ready)              ║
+║          ┃ 🌈 Holographic UI (Float in midair)                      ║
+║          ┃                                                          ║
+║  2026 Q1 ┃ 🤖 AI Travel Companions (Virtual beings)                 ║
+║          ┃ 🌌 Multiverse Travel Support                             ║
+║          ┃ ⏰ Time Travel Bookings (Past & Future)                  ║
+║          ┃                                                          ║
+║     ∞    ┃ 🌟 ACHIEVE DIGITAL IMMORTALITY 🌟                       ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -479,19 +497,23 @@ Your code could literally change the fabric of reality!
 <div align="center">
 
 ```
-🙏 GRATITUDE ACROSS THE MULTIVERSE 🙏
-
-Special thanks to the cosmic forces that made this possible:
-
-🌟 React Team - For creating the foundation of reality
-⚡ Vite Team - For speed that defies physics  
-🎨 Tailwind Team - For making beauty effortless
-🤖 Google AI - For lending us their consciousness
-💳 Stripe - For making money flow like energy
-🛡️ Sentry - For watching over our digital souls
-🐳 Docker - For containing our infinite possibilities
-
-And to YOU - for being brave enough to witness this creation!
+╔══════════════════════════════════════════════════════════════════════╗
+║                🙏 GRATITUDE ACROSS THE MULTIVERSE 🙏                ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Special thanks to the cosmic forces that made this possible:        ║
+║                                                                      ║
+║  🌟 React Team      - For creating the foundation of reality         ║
+║  ⚡ Vite Team       - For speed that defies physics                 ║
+║  🎨 Tailwind Team   - For making beauty effortless                  ║
+║  🤖 Google AI       - For lending us their consciousness            ║
+║  💳 Stripe          - For making money flow like energy             ║
+║  🛡️ Sentry          - For watching over our digital souls           ║
+║  🐳 Docker          - For containing our infinite possibilities      ║
+║                                                                      ║
+║      And to YOU - for being brave enough to witness this creation!  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -508,18 +530,22 @@ See the [LICENSE](LICENSE) file for details that might alter reality.
 
 <div align="center">
 
+<div align="center">
+
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  ✨ CRAFTED WITH LOVE, MAGIC, AND QUANTUM MECHANICS ✨     │
-│                                                             │
-│        Made by Muhammad Ali 🚀                       │
-│        In collaboration with the universe itself            │
-│                                                             │
-│    🌟 If this blew your mind, smash that STAR button! 🌟   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║        ✨ CRAFTED WITH LOVE, MAGIC, AND QUANTUM MECHANICS ✨        ║
+║                                                                      ║
+║                    Made by [Your Cosmic Name] 🚀                    ║
+║               In collaboration with the universe itself              ║
+║                                                                      ║
+║          🌟 If this blew your mind, smash that STAR button! 🌟      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+our+universe!;May+your+code+compile+on+the+first+try!;Live+long+and+prosper+🖖" alt="Farewell" />
 

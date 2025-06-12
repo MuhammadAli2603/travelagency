@@ -535,7 +535,7 @@ See the [LICENSE](LICENSE) file for details that might alter reality.
 ║                                                                      ║
 ║        ✨ CRAFTED WITH LOVE, MAGIC, AND QUANTUM MECHANICS ✨        ║
 ║                                                                      ║
-║                    Made by [Your Cosmic Name] 🚀                    ║
+║                    Made by Muhammad Ali🚀                            ║
 ║               In collaboration with the universe itself              ║
 ║                                                                      ║
 ║          🌟 If this blew your mind, smash that STAR button! 🌟      ║

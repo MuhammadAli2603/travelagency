@@ -4,13 +4,13 @@
 <div align="center">
 
 ```
-    ╔══════════════════════════════════════════════════════════════╗
-    ║  🚀 NEXT-GENERATION TRAVEL EXPERIENCE ENGINE 🚀             ║
-    ║                                                              ║
-    ║     ✦ Powered by Artificial Intelligence ✦                  ║
-    ║     ✧ Built for the Future ✧                                ║
-    ║     ✦ Designed for Dreamers ✦                               ║
-    ╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  🚀 NEXT-GENERATION TRAVEL EXPERIENCE ENGINE 🚀              ║
+║                                                              ║
+║     ✦ Powered by Artificial Intelligence ✦                  ║
+║     ✧ Built for the Future ✧                                ║
+║     ✦ Designed for Dreamers ✦                               ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+the+Future+of+Travel;AI-Powered+Adventure+Platform;Your+Journey+Starts+Here" alt="Typing SVG" />
@@ -35,17 +35,17 @@
 <div align="center">
 
 ```
-    ╔═══════════════════════════════════════════════════════════════╗
-    ║                  🎭 EXPERIENCE THE IMPOSSIBLE 🎭             ║
-    ╠═══════════════════════════════════════════════════════════════╣
-    ║                                                               ║
-    ║   🧠  AI That Reads Your Travel Dreams                        ║
-    ║   ⚡  Lightning Speed That Defies Physics                     ║
-    ║   🎨  UI So Beautiful It Makes Designers Weep                 ║
-    ║   🔮  Predictions So Accurate They Seem Like Magic            ║
-    ║   🛡️  Security Tighter Than Fort Knox                         ║
-    ║                                                               ║
-    ╚═══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║                  🎭 EXPERIENCE THE IMPOSSIBLE 🎭              ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║   🧠  AI That Reads Your Travel Dreams                        ║
+║   ⚡  Lightning Speed That Defies Physics                     ║
+║   🎨  UI So Beautiful It Makes Designers Weep                 ║
+║   🔮  Predictions So Accurate They Seem Like Magic            ║
+║   🛡️  Security Tighter Than Fort Knox                         ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -337,7 +337,7 @@ docker-compose up -d --scale universe=infinity
 
 ## 🏗️ ARCHITECTURE OF THE GODS
 
-<div align="center">
+<div align="left">
 
 ```
 🏛️ PROJECT STRUCTURE OF LEGENDS 🏛️
@@ -530,8 +530,6 @@ See the [LICENSE](LICENSE) file for details that might alter reality.
 
 <div align="center">
 
-<div align="center">
-
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
@@ -544,8 +542,6 @@ See the [LICENSE](LICENSE) file for details that might alter reality.
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
-
-</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+our+universe!;May+your+code+compile+on+the+first+try!;Live+long+and+prosper+🖖" alt="Farewell" />
 
